@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458767247936",
+    "firebase_url": "https://mobilecoffloading.firebaseio.com",
+    "project_id": "mobilecoffloading",
+    "storage_bucket": "mobilecoffloading.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458767247936:android:34e02ea58c93e209",
+        "android_client_info": {
+          "package_name": "com.example.pablo.testancome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458767247936-6ldc9li0d9c9jjiuemrblemg4dajkag2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pablo.testancome",
+            "certificate_hash": "AA7FB369CF4E506C147CFAC509B5211CFCCEA517"
+          }
+        },
+        {
+          "client_id": "458767247936-8fgh3csqcu1mu64qajrplpq5ubo55j02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2bZUbuiO3FYdH04FSWR8cL_2jaBhrRW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458767247936-8fgh3csqcu1mu64qajrplpq5ubo55j02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

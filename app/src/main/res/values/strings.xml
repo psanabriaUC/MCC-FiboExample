@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAnCome</string>
+    <string name="do_something">Do Something</string>
+    <string name="fibonacci_n">Fibonacci N</string>
+</resources>
